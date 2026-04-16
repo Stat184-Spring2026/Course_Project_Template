@@ -27,7 +27,7 @@ There are multiple key dates that you and your project team are going need to be
 | Sec. 1 & 4: 4/24/26 <br/> Sec. 2 & 5: 4/23/26 | __Checkpoint #4__: Sign up for Work-in-Progress Presentation Slot (in class) |
 | 4/27/26--5/1/26 | __Checkpoint #5A__: Work-in-Progress Presentations and __Checkpoint #5B__: Peer Feedback <br/><mark>Each person MUST be present for all presentations.</mark> |
 | 5/6/26 <br/> Sec. 2: 5/5/26 | __Checkpoint #6__: Submission of Final Report (PDF, Canvas) and Link to Repo (submission comment) |
-| 5/7/26 <br/> Sec. 2: 5/6/26 | __Checkpoint #7__: Submission of Self- & Peer Evaluations |
+| 5/7/26 <br/> Sec. 2: 5/5/26 | __Checkpoint #7__: Submission of Self- & Peer Evaluations |
 
 Checkpoints #1-#5 must be completed __*in person*__. 
 
