@@ -16,7 +16,7 @@ Be sure to list where you got any data used within the project. Be sure to ackno
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+Provide some information about what you intend to do with the project. You can additionally refer the visitor to your detailed plan document.
 
 ## Repo Structure
 
