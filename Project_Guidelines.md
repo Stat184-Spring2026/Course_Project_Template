@@ -131,6 +131,8 @@ Is your team stuck trying to figure out where to look for data or a topic to exp
 
 - https://www.icpsr.umich.edu/sites/icpsr/home
 - https://www.re3data.org/
+- https://archive-beta.ics.uci.edu/
+- https://www.causeweb.org/cause/resources/data-sources
 - https://openpaymentsdata.cms.gov/
 - https://aact.ctti-clinicaltrials.org/
 - https://www.esportsearnings.com/
